@@ -1,0 +1,141 @@
+
+[
+    {
+        "id": "EF1CC5BB-4785-4D8E-AB98-5FA4E00B6A66",
+        "genre": "Action and Adventure",
+        "genreIndex": 0,
+        "books": [
+            {
+                "id": "EDCD038C-036F-4C40-826F-61C88CD84DDD",
+                "name": "Life of Pi",
+                "author": "Yann Martel",
+                "price": 6,
+                "description": "A young man who survives a disaster at sea is hurtled into an epic journey of adventure and discovery. While cast away, he forms an unexpected connection with another survivor: a fearsome Bengal tiger. In Canada, a writer visits the Indian storyteller Pi Patel and asks him to tell his life story."
+            },
+            {
+                "id": "36A7CC40-18C1-48E5-BCD8-3B42D43BEAEE",
+                "name": "The Call of the Wild",
+                "author": "Jack London",
+                "price": 8,
+                "description": "The Call of the Wild is one of Jack London's most popular novels. The story follows a dog named Buck, a 140 pound Saint Bernard and Scotch Shepherd mix. Buck is abducted from a comfortable life as a pet and tossed into the chaos of the Klondike Gold Rush and the brutal realities of frontier life."
+            },
+            {
+                "id": "CFB8C2DB-3478-4A10-92FA-3D2A2D5324FB",
+                "name": "The Book Thief",
+                "author": "Markus Zusak",
+                "price": 5,
+                "description": "SPECIAL 10TH ANNIVERSARY EDITION with exclusive extra behind-the-scenes material from the author It is 1939. In Nazi Germany, the country is holding its breath. Death has never been busier - and will become busier still. By her brother's graveside, Liesel's life is changed forever when she picks up a single object, abandoned in the snow. It is The Gravedigger's Handbook, and this is her first act of book thievery. So begins Liesel's love affair with books and words, and soon she is stealing from Nazi book-burnings, the mayor's wife's library. wherever there are books to be found. But these are dangerous times, and when Liesel's foster family hides a Jew in their basement, nothing will ever be the same again. In superbly crafted writing that burns with intensity, award-winning author Markus Zusak has given us one of the most enduring stories of our time. Now a major film from Twentieth-Century Fox starring Geoffrey Rush and Emily Watson.."
+            },
+            {
+                "id": "8903A204-F5C1-4D5C-A0A1-5C0ECD27FDD7",
+                "name": "The Last Wish Introducing the Witcher",
+                "author": "Andrzej Sapkowski",
+                "price": 3,
+                "description": "It chronologically follows Geralt's recovery after being attacked by a striga he was hunting. He seeks out the help of his old friend, the priestess Nenneke. He recognizes her as a great healer and stays at the temple for a few days. During his stay he argues with Nenneke about faith as well as his recovery."
+            },
+            {
+                "id": "8903A204-F5C1-4D5C-A0A2-5C0ECD27FCD9",
+                "name": "To Kill A Kingdom",
+                "author": " Alexandra Christo",
+                "price": 13,
+                "description": "This action-packed YA debut pits a deadly siren princess and a siren-hunting human prince against each other as they fight to protect their kingdoms.Princess Lira is siren royalty and the most lethal of them all. With the hearts of seventeen princes in her collection, she is revered across the sea. Until a twist of fate forces her to kill one of her own. To punish her daughter, the Sea Queen transforms Lira into the one thing they loathe most--a human. Robbed of her song, Lira has until the winter solstice to deliver Prince Elian's heart to the Sea Queen and or remain a human forever. The ocean is the only place Prince Elian calls home, even though he is heir to the most powerful kingdom in the world. Hunting sirens is more than an unsavory hobby--it's his calling. When he rescues a drowning woman in the ocean, she's more than what she appears. She promises to help him find the key to destroying all of sirenkind for good--but can he trust her? And just how many deals will Elian have to barter to eliminate mankind's greatest enemy?"
+            }
+        ]
+    },
+    {
+        
+        "id": "3D97FAB4-50AC-40FC-9BF0-3F46BB6A92F5",
+        "genre": "Classics",
+        "genreIndex": 1,
+        "books": [
+            {
+                "id": "D44AAEBC-BF4F-42CD-8C37-0FEF772A5B69",
+                "name": "To Kill a Mockingbird",
+                "author": "Harper Lee",
+                "price": 15,
+                "description": "To Kill a Mockingbird takes place in the fictional town of Maycomb, Alabama, during the Great Depression. The protagonist is Jean Louise (“Scout”) Finch, an intelligent though unconventional girl who ages from six to nine years old during the course of the novel. She is raised with her brother, Jeremy Atticus (“Jem”), by their widowed father, Atticus Finch. He is a prominent lawyer who encourages his children to be empathetic and just. He notably tells them that it is “a sin to kill a mockingbird,” alluding to the fact that the birds are innocent and harmless"
+            },
+            {
+                "id": "2BAD20C5-D007-4BBE-B074-8CF0F256A42F",
+                "name": "Little Women",
+                "author": "Louisa May Alcott",
+                "price": 12,
+                "description": "The story follows the lives of the four March sisters—Meg, Jo, Beth, and Amy—and details their passage from childhood to womanhood. Loosely based on the lives of the author and her three sisters, it is classified as an autobiographical or semi-autobiographical novel."
+            },
+            {
+                "id": "759527CB-1064-4082-A527-F04698F9D18F",
+                "name": "Beloved",
+                "author": "Toni Morrison",
+                "price": 12,
+                "description": "Discover Toni Morrison’s most iconic work in this Pulitzer-prize winning novel that exemplifies her powerful and important place in contemporary American literature. ‘An American masterpiece’ AS Byatt. It is the mid-1800s and as slavery looks to be coming to an end, Sethe is haunted by the violent trauma it wrought on her former enslaved life at Sweet Home, Kentucky. Her dead baby daughter, whose tombstone bears the single word, Beloved, returns as a spectre to punish her mother, but also to elicit her love. Told with heart-stopping clarity, melding horror and beauty, Beloved is Toni Morrison’s enduring masterpiece."
+            },
+            {
+                "id": "AD419CE6-50CC-4132-BE8E-B92B9DFE4D02",
+                "name": "Nineteen Eighty-Four",
+                "author": "George Orwell",
+                "price": 12,
+                "description": "A man loses his identity while living under a repressive regime. In a story based on George Orwell's classic novel, Winston Smith (John Hurt) is a government employee whose job involves the rewriting of history in a manner that casts his fictional country's leaders in a charitable light. His trysts with Julia (Suzanna Hamilton) provide his only measure of enjoyment, but lawmakers frown on the relationship -- and in this closely monitored society, there is no escape from Big Brother."
+            },
+            {
+                "id": "944AB773-16CA-48F9-BB64-BB0E482FE102",
+                "name": "The Great Gatsby",
+                "author": "F. Scott Fitzgerald",
+                "price": 14,
+                "description": "Midwest native Nick Carraway (Tobey Maguire) arrives in 1922 New York in search of the American dream. Nick, a would-be writer, moves in next-door to millionaire Jay Gatsby (Leonardo DiCaprio) and across the bay from his cousin Daisy (Carey Mulligan) and her philandering husband, Tom (Joel Edgerton). Thus, Nick becomes drawn into the captivating world of the wealthy and -- as he bears witness to their illusions and deceits -- pens a tale of impossible love, dreams, and tragedy.!"
+            },
+            {
+                "id": "024763B6-2577-4D04-9A4F-321F3EB19EA6",
+                "name": "Wuthering Heights",
+                "author": "Emily Brontë",
+                "price": 9,
+                "description": "Wuthering Heights is commonly thought of as romantic, but try rereading it without being astonished by the extremes of physical and psychological violence' Jeanette Winterson Emily Bronte's novel of impossible desires, violence and transgression is a masterpiece of intense, unsettling power. It begins in a snowstorm, when Lockwood, the new tenant of Thrushcross Grange on the bleak Yorkshire moors, is forced to seek shelter at Wuthering Heights. There he discovers the history of the tempestuous events that took place years before: the intense passion between the foundling Heathcliff and Catherine Earnshaw, her betrayal of him and the bitter vengeance he now wreaks on the innocent heirs of the past."
+            },
+            {
+                "id": "22E8B9F0-94C1-43EC-9B19-34F22CA17B6B",
+                "name": "Pride and Prejudice",
+                "author": "Jane Austen",
+                "price": 10,
+                "description": "Pride and Prejudice follows the turbulent relationship between Elizabeth Bennet, the daughter of a country gentleman, and Fitzwilliam Darcy, a rich aristocratic landowner. They must overcome the titular sins of pride and prejudice in order to fall in love and marry."
+            },
+            {
+                "id": "DD20B3C1-438A-4657-BCFA-A0C6DA1AE7EE",
+                "name": "Odyssey",
+                "author": "Homer",
+                "price": 6,
+                "description": "The Odyssey is Homer's epic of Odysseus' 10-year struggle to return home after the Trojan War. While Odysseus battles mystical creatures and faces the wrath of the gods, his wife Penelope and his son Telemachus stave off suitors vying for Penelope's hand and Ithaca's throne long enough for Odysseus to return"
+            },
+            {
+                "id": "44FBAFC0-BEE0-4A02-9C57-B8ECDC1CE5E1",
+                "name": "Crime and Punishment",
+                "author": "Fyodor Dostoevsky",
+                "price": 20,
+                "description": "Crime and Punishment follows the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in Saint Petersburg who plans to kill an unscrupulous pawnbroker for her money."
+            },
+            {
+                "id": "F0B4DF27-B293-4151-8480-FA46DFCA5BBB",
+                "name": "Great Expectations",
+                "author": "Charles Dickens",
+                "price": 7,
+                "description": "Great Expectations follows the childhood and young adult years of Pip a blacksmith's apprentice in a country village. He suddenly comes into a large fortune (his great expectations) from a mysterious benefactor and moves to London where he enters high society."
+            },
+            {
+                "id": "FD3BACF7-01AE-449D-8929-26C6F8EC90D5",
+                "name": "A Tale of Two Cities",
+                "author": "Charles Dickens",
+                "price": 14,
+                "description": "The novel tells the story of the French Doctor Manette, his 18-year-long imprisonment in the Bastille in Paris and his release to live in London with his daughter Lucie, whom he had never met. The story is set against the conditions that led up to the French Revolution and the Reign of Terror."
+            },
+            {
+                "id": "F5BCE219-391D-4AAF-8DA7-D25096776D46",
+                "name": "The Count of Monte Cristo",
+                "author": "Alexandre Dumas",
+                "price": 12,
+                "description": "Thrown in prison for a crime he has not committed, Edmond Dantes is confined to the grim fortress of If. There he learns of a great hoard of treasure hidden on the Isle of Monte Cristo and he becomes determined not only to escape, but also to unearth the treasure and use it to plot the destruction of the three men responsible for his incarceration. Dumas’ epic tale of suffering and retribution, inspired by a real-life case of wrongful imprisonment, was a huge popular success when it was first serialized in the 1840s"
+            }
+        ]
+    }
+]
+    
+   
+
+
